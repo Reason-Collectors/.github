@@ -110,7 +110,7 @@
       <sub><i>A frontend developer building Gomin Log — plans it in a notebook, ships it one step at a time.</i></sub>
       <br /><br />
       💻 Frontend · 📓 계획형 · 🏃 러닝 &amp; 클라이밍 · ☕ 커피 &amp; 음악<br />
-      📍 서울시 관악구 · Seoul, Korea<br />
+      📍 경기도 과천시 · Gwacheon, Korea<br />
       ✉️ <!-- 공개할 이메일 주소를 넣으세요 · add a public email address -->
     </td>
   </tr>
