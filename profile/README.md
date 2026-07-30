@@ -94,23 +94,31 @@
 
 <table>
   <tr>
-    <td align="center" width="140">
+    <td align="center" width="190">
       <a href="https://github.com/unseoJang">
-        <img src="https://avatars.githubusercontent.com/u/21374354?v=4" width="100" alt="장운서 · unseoJang" /><br />
-        <b>장운서</b><br />
-        <sub>@unseoJang</sub>
-      </a>
+        <img src="seoun.png" width="160" alt="서운 · Seoun" />
+      </a><br />
+      <b>서운 · Seoun</b><br />
+      <sub>조용히 견디고, 천천히 나아가는 아이</sub>
     </td>
     <td>
-      사유수집단을 시작하고 <b>고민로그</b>를 만들고 있습니다.<br />
-      <sub><i>Started Reason Collectors, currently building Gomin Log.</i></sub>
+      <b>장운서</b> · <a href="https://github.com/unseoJang">@unseoJang</a> — <b>CEO / Founder</b><br />
+      <sub><i>Unseo Jang — CEO &amp; Founder of Reason Collectors</i></sub>
       <br /><br />
+      프론트엔드 개발자이자 <b>고민로그</b>를 만드는 사람.<br />
+      노트에 할 일과 목표를 정리하고 차근차근 실천합니다.<br />
+      <sub><i>A frontend developer building Gomin Log — plans it in a notebook, ships it one step at a time.</i></sub>
+      <br /><br />
+      💻 Frontend · 📓 계획형 · 🏃 러닝 &amp; 클라이밍 · ☕ 커피 &amp; 음악<br />
       📍 서울시 관악구 · Seoul, Korea<br />
-      🔗 <a href="https://github.com/unseoJang">github.com/unseoJang</a><br />
       ✉️ <!-- 공개할 이메일 주소를 넣으세요 · add a public email address -->
     </td>
   </tr>
 </table>
+
+> **완벽하지 않아도 괜찮아. 오늘도 최선을 다한 나 자신을 안아줘.**<br />
+> *It's okay not to be perfect — go hug the person who did their best today.*<br />
+> <sub>— 서운의 한마디 · a word from Seoun</sub>
 
 ---
 
