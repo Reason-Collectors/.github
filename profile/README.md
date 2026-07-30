@@ -1,9 +1,6 @@
-<!-- TODO: banner.png 를 이 폴더(profile/)에 추가한 뒤 아래 두 줄의 주석을 해제하세요.
-     Add banner.png to this folder, then uncomment the block below.
 <div align="center">
   <img src="banner.png" alt="사유수집단 — 삶의 선택에는 이유가 남아야 하니까" width="100%" />
 </div>
--->
 
 <div align="center">
 
@@ -93,10 +90,27 @@
 관심이 있다면 Issues나 Discussions에 흔적을 남겨 주세요.
 *If that sounds like you, leave a trace in Issues or Discussions.*
 
-## 연락 · Contact
+## 만드는 사람 · Who's behind this
 
-- GitHub · [@unseoJang](https://github.com/unseoJang)
-- Email · <!-- 공개할 주소를 넣으세요 · add a public address -->
+<table>
+  <tr>
+    <td align="center" width="140">
+      <a href="https://github.com/unseoJang">
+        <img src="https://avatars.githubusercontent.com/u/21374354?v=4" width="100" alt="장운서 · unseoJang" /><br />
+        <b>장운서</b><br />
+        <sub>@unseoJang</sub>
+      </a>
+    </td>
+    <td>
+      사유수집단을 시작하고 <b>고민로그</b>를 만들고 있습니다.<br />
+      <sub><i>Started Reason Collectors, currently building Gomin Log.</i></sub>
+      <br /><br />
+      📍 서울시 관악구 · Seoul, Korea<br />
+      🔗 <a href="https://github.com/unseoJang">github.com/unseoJang</a><br />
+      ✉️ <!-- 공개할 이메일 주소를 넣으세요 · add a public email address -->
+    </td>
+  </tr>
+</table>
 
 ---
 
